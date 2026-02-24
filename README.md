@@ -9,7 +9,7 @@
 
 ---
 
-### Решение:
+### Задание 2
 
 
 ![image](https://github.com/sergey-selivanov-png/sql2/blob/main/image/z2.png)
